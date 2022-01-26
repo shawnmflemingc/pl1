@@ -13,7 +13,7 @@ https://maps.googleapis.com/maps/api/directions/json?departure_time=now&avoid=hi
 
 ## Next paste the full JSON response to this query here:
 
-```JavaScript
+```
 {
    "geocoded_waypoints" : [
       {
