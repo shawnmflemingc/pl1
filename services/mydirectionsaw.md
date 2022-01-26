@@ -13,7 +13,7 @@ https://maps.googleapis.com/maps/api/directions/json?departure_time=now&avoid=hi
 
 ## Next paste the full JSON response to this query here:
 
-```
+<PRE>
 {
    "geocoded_waypoints" : [
       {
@@ -1264,7 +1264,7 @@ https://maps.googleapis.com/maps/api/directions/json?departure_time=now&avoid=hi
    ],
    "status" : "OK"
 }
-```
+</PRE>
 ____
 ## Rubric
 
